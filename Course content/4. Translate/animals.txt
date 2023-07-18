@@ -1,0 +1,11 @@
+cat
+dog
+mouse
+bird
+fox
+cat
+bird
+chicken
+rabbit
+eagle
+fish

@@ -1,0 +1,6 @@
+alice	plumber			german		1000
+bob		programmer		spanish		2000
+john	doctor			american	5000
+dave	nurse			english		8000
+mary	chef			french		10000
+laura	pilot			irish		5000
